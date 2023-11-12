@@ -30,7 +30,8 @@ This script facilitates the automatic integration of new servers into an Ansible
 ## Usage
 Run the script using Python and follow the on-screen prompts to enter server details:
 ```bash
-python3 add_new_server.py
+chmod +x add_new_server
+./add_new_server.py
 ```
 
 ## Configuration
